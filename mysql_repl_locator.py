@@ -12,7 +12,7 @@ Supports:
 - Performance Schema with fallback
 - Automatic sudo detection
 
-Author: QoderWork
+Author: kefan
 Date: 2026-03-23
 Version: 1.0.0
 """
